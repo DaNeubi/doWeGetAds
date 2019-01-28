@@ -1,0 +1,16 @@
+##########################################
+#         Created By DaNeubi             #
+##########################################
+#            Version: 0.1                #
+##########################################
+
+a1089.d.akamai.net
+adclick.g.doubleclick.net
+adservice.google.de
+candycrushsoda.king.com
+cws.conviva.com
+e990.g.akamaiedge.net
+flingo.tv
+newsletter.alternate.de
+nrc.tapas.net
+*.33across.com

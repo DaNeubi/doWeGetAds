@@ -13,4 +13,5 @@ e990.g.akamaiedge.net
 flingo.tv
 newsletter.alternate.de
 nrc.tapas.net
-*.33across.com
+(^|\.)33across\.com$
+(^|\.)365advert\.com$

@@ -15,3 +15,7 @@ newsletter.alternate.de
 nrc.tapas.net
 33across.com
 365advert.com
+(^|\.)3gppnetwork\.org$
+(^|\.)ad-srv\.net$
+(^|\.)adsrvr\.org$
+(^|\.)adx1\.com$

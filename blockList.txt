@@ -4,6 +4,12 @@
 #            Version: 0.1                #
 ##########################################
 
+TODO:
+#(^|\.)3gppnetwork\.org$
+#(^|\.)ad-srv\.net$
+#(^|\.)adsrvr\.org$
+#(^|\.)adx1\.com$
+
 a1089.d.akamai.net
 adclick.g.doubleclick.net
 adservice.google.de
@@ -15,7 +21,7 @@ newsletter.alternate.de
 nrc.tapas.net
 33across.com
 365advert.com
-#(^|\.)3gppnetwork\.org$
-#(^|\.)ad-srv\.net$
-#(^|\.)adsrvr\.org$
-#(^|\.)adx1\.com$
+connect.ekomi.de
+click.alternate.de
+responder.wt-safetag.com
+script.ioam.de
